@@ -1,0 +1,7 @@
+Start:Sat, 7 Feb 2015 5:30:00 -0800
+End: Sat, 7 Feb 2015 20:52:39 -0800
+Tasks: Finished programming login.php
+
+Start:Sat, 7 Feb 2015 12:30:00 -0800
+End: Sat, 7 Feb 2015 16:42:43 -0800
+Tasks: Finished multable.php and loopback.php
